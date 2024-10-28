@@ -30,4 +30,5 @@ function App() {
   );
 }
 
+// Export the App component for use in other files
 export default App;
